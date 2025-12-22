@@ -15,8 +15,8 @@ export const headerData = {
       href: getPermalink('/#collab'),
     },
     {
-      text: 'Contact',
-      href: getPermalink('/#contact'),
+      text: 'Partnerships',
+      href: getPermalink('/#partnerships'),
     },
   ],
   actions: [{ text: 'Contact', href: getPermalink('/#contact'), target: '_blank' }],
