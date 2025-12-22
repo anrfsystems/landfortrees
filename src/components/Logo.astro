@@ -1,9 +1,10 @@
 ---
 import { SITE } from 'astrowind:config';
+import { getAsset } from '~/utils/permalinks';
 ---
 
 <img
-  src={'~/assets/images/ANRF-1.png'}
+  src={getAsset('~/assets/images/ANRF-1.png')}
   alt={SITE?.name}
   class="h-8 md:h-7 ml-2 rtl:ml-0 rtl:mr-2"
 />
