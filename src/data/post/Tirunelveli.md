@@ -3,7 +3,7 @@ publishDate: 2023-08-12T00:00:00Z
 author: John Smith
 title: Experimental Organic Banana Farm - Tirunelveli, Tamil Nadu
 excerpt: A living research site for regenerative agriculture
-image: https://unsplash.com/photos/green-palm-tree-on-brown-field-during-daytime-Nm1r9OxG6TU
+image: ~/assets/images/PHOTO-2025-09-25-17-14-41 2.jpg
 category: Tutorials
 tags:
   - astro
